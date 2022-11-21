@@ -1,0 +1,18 @@
+solution steps
+
+version_1
+
+* created an isntance of sheet_1 to create the macros template 
+* relative reference added
+* Macro code CTRL + o
+* borders added
+* all coloumns and conents centered
+* title row orange
+* I had initially selected out of Bordered table range cells from "A2:F250", in version1, so I tried to edit the VBA, so i could not
+
+Version_2
+
+* warpped text
+* double clicked on the time date format so that it displays actual time dat while recording
+* Created a new version of the serverdata this time, carefully updating the Bordered tables 
+
